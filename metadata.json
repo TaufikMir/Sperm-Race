@@ -1,0 +1,8 @@
+{
+  "name": "Remix Sperm Race",
+  "description": "An arcade biological racing game where you navigate fluid currents, dodge immune macrophages, collect ATP, and race against millions of rivals to fertilize the egg.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
